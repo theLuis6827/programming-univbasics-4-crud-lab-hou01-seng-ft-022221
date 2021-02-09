@@ -3,15 +3,15 @@ def create_an_empty_array
 end
 
 def create_an_array
-  audi = [s4, s5, tt, ttrs]
+  audi = [a, s, tt, ttrs]
 end
 
 def add_element_to_end_of_array(array, element)
-  audi.push(r8)
+  audi.push(r)
 end
 
 def add_element_to_start_of_array(array, element)
-  audi.unshift(a4)
+  audi.unshift(rs)
 end
 
 def remove_element_from_end_of_array(array)
@@ -35,5 +35,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  audi [s4] "rs5"
+  audi [s] "rs"
 end
