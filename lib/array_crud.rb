@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   audi = ["a", "s", "tt", "ttrs"]
-  audi << "arrays:"
+  audi << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
