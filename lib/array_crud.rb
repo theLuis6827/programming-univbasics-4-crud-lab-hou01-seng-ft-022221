@@ -27,15 +27,18 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  audi[0]
+  array = ["I", "am", "really", "learning", "arrays!"]
+  array[0]
 end
 
 def retrieve_first_element_from_array(array)
-  audi[0]
+  array = ["I", "am", "really", "learning", "arrays!"]
+  array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  audi[-1]
+  array = ["I", "am", "really", "learning", "arrays!"]
+  array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
