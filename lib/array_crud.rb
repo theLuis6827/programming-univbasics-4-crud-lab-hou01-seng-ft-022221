@@ -3,22 +3,22 @@ def create_an_empty_array
 end
 
 def create_an_array
-  audi = ["a", "s", "tt", "ttrs"]
+  array = ["a", "s", "tt", "ttrs"]
 end
 
 def add_element_to_end_of_array(array, element)
-  audi = ["a", "s", "tt", "ttrs"]
-  audi << "arrays!"
+  array = ["a", "s", "tt", "ttrs"]
+  array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
   array = ["I", "am", "really", "learning"]
-  audi.unshift("wow")
+  array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
   array = ["I", "am", "really", "learning", "arrays!"]
-  audi.pop
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
