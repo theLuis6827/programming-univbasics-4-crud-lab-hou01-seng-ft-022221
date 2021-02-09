@@ -23,17 +23,17 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  audi [0]
+  audi[0]
 end
 
 def retrieve_first_element_from_array(array)
-  audi [0]
+  audi[0]
 end
 
 def retrieve_last_element_from_array(array)
-  audi [-1]
+  audi[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-  audi [s] "rs"
+  audi[s] = "rs"
 end
